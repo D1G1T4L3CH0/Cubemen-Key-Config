@@ -35,9 +35,6 @@
 ; Known Issues:
 ;	* The hotkeys remain active while the Steam Overlay is active over the game. This may be fixed by adding a toggle for the hoykeys.
 
-; Changelog:
-; 	07/07/2012 - v1.0 released.
-
 ; Default Keys:
 ;	ESC		 - Pause / Unpause
 ;	\ or `	 - Switch Camera
